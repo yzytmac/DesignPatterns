@@ -3,3 +3,4 @@
 
 - [简单工厂模式](https://github.com/yzytmac/DesignPatterns/tree/master/src/com/yzy/example/factory)
 - [策略模式](https://github.com/yzytmac/DesignPatterns/tree/master/src/com/yzy/example/strategy)
+- [责任链模式](https://github.com/yzytmac/DesignPatterns/tree/master/src/com/yzy/example/responsibility)
