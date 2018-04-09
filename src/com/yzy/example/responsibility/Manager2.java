@@ -5,15 +5,22 @@ package com.yzy.example.responsibility;
  */
 public class Manager2 extends Manager {
 
-    public Manager2(String name){
+    public Manager2(String name) {
         this.setName(name);
     }
+
     @Override
-    public void manage(int type) {
-        if (type <= 5) {
-            System.out.println(getName()+"处理了");
+    public void leave(int day) {
+        if (day <= 5) {
+            System.out.println(getName() + "处理了");
         } else if (superior != null) {
-            superior.manage(type);
+            superior.leave(day);
         }
+
+    }
+
+    @Override
+    public void raises(int level) {
+// TODO: 18-4-9
     }
 }

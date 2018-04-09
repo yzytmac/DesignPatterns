@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62426905-c5a8-4ce2-b154-14a9e687b73d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/yzy/example/responsibility/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzy/example/responsibility/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager1.java" afterDir="false" />
@@ -23,21 +22,21 @@
       <file leaf-file-name="Manager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="256">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#173#174#0" expanded="true" />
                 <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -46,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Manager1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Manager1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="57" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="57" />
+            <state relative-caret-position="304">
+              <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
                 <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#163#164#0" expanded="true" />
@@ -62,8 +61,8 @@
       <file leaf-file-name="Manager2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="342">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#178#179#0" expanded="true" />
@@ -75,8 +74,8 @@
       <file leaf-file-name="Manager3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="484">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#144#145#0" expanded="true" />
                 <element signature="e#178#179#0" expanded="true" />
@@ -88,8 +87,8 @@
       <file leaf-file-name="Manager4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="484">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
               <folding>
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#175#176#0" expanded="true" />
@@ -127,12 +126,12 @@
         <option value="$PROJECT_DIR$/src/com/yzy/example/factory/Letv.java" />
         <option value="$PROJECT_DIR$/src/com/yzy/example/factory/FuShiKang.java" />
         <option value="$PROJECT_DIR$/src/com/yzy/example/factory/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager.java" />
-        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager1.java" />
-        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager4.java" />
-        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager3.java" />
-        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager2.java" />
         <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager.java" />
+        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager2.java" />
+        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager3.java" />
+        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager4.java" />
+        <option value="$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager1.java" />
       </list>
     </option>
   </component>
@@ -318,12 +317,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523242602282</updated>
-      <workItem from="1523242605941" duration="3508000" />
+      <workItem from="1523242605941" duration="3887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3508000" />
+    <option name="totallyTimeSpent" value="3887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="285" y="52" width="1400" height="1000" extended-state="0" />
@@ -338,12 +337,12 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -413,36 +412,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager4.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="256">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="30" />
           <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="342">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
@@ -452,8 +447,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="484">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
             <element signature="e#178#179#0" expanded="true" />
@@ -461,21 +456,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="57" />
+        <state relative-caret-position="484">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/yzy/example/responsibility/Manager1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        <state relative-caret-position="304">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

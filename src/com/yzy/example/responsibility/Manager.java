@@ -7,11 +7,9 @@ public abstract class Manager {
     protected Manager superior;//上级
     private String name;
 
-    public void setLeader(Manager superior){
+    public void setSuperior(Manager superior){
         this.superior = superior;
     }
-
-    public abstract void manage(int type);
 
     public String getName() {
         return name;
@@ -20,4 +18,16 @@ public abstract class Manager {
     public void setName(String pName) {
         name = pName;
     }
+
+    /**
+     * 请假
+     * @param day
+     */
+    public abstract void leave(int day);
+
+    /**
+     * 加薪
+     * @param level
+     */
+    public abstract void raises(int level);
 }

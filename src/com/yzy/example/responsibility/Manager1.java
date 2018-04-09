@@ -9,12 +9,18 @@ public class Manager1 extends Manager {
         this.setName(name);
     }
 
+
     @Override
-    public void manage(int type) {
-        if (type <= 3) {
+    public void leave(int day) {
+        if (day <= 3) {
             System.out.println(getName()+"处理了");
         } else if (superior != null) {
-            superior.manage(type);
+            superior.leave(day);
         }
+    }
+
+    @Override
+    public void raises(int level) {
+        // TODO: 18-4-9
     }
 }
